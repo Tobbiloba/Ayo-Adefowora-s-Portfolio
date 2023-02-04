@@ -8,10 +8,10 @@ function MenuBar() {
             <div className="w-2 h-2 bg-orange-500 mt-4 ml-1 rounded-full"></div>
         </div>
         <div className="flex flex-row items-center">
-            <h1 className="text-white mr-8 font-medium">Home</h1>
-            <h1 className="text-white mr-8">Case Studies</h1>
-            <h1 className="text-white mr-8">Resume</h1>
-            <h1 className="text-white mr-8">Contact me</h1>
+            <h1 className="text-white mr-8 font-medium cursor-pointer">Home</h1>
+            <h1 className="text-white mr-8 font-medium cursor-pointer">Case Studies</h1>
+            <h1 className="text-white mr-8 font-medium cursor-pointer">Resume</h1>
+            <h1 className="text-white mr-8 font-medium cursor-pointer">Contact me</h1>
         </div>
     </div>
   );
