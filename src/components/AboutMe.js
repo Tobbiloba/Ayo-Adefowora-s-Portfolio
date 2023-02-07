@@ -3,8 +3,8 @@ import { GiAchievement } from "react-icons/gi";
 import { AiOutlineBulb } from "react-icons/ai";
 function AboutMe() {
 return (
-    <div className="flex flex-col h-[100vh] justify-center items-center bg-black w-[100vw] pb-16 lg:pb-0">
-        <div className="flex flex-col lg:flex-row mr-0 lg:mr-64">
+    <div className="flex flex-col h-[100vh] justify-center items-center bg-black w-[100vw] pb-16 lg:pb-0 lg:pt-0 pt-6">
+        <div className="flex flex-col-reverse lg:flex-row mr-0 lg:mr-24">
             <div className="flex flex-col  lg:mb-0 mb-10 mr-0 lg:mr-40">
                 <h1 className="text-white font-normal mt-16 lg:mt-0 lg:font-bold text-xl lg:text-2xl">ABOUT ME</h1>
                 <h1 className="text-slate-300 w-[70vw] lg:w-[29vw] mt-4 text-[15px] lg:text-2xl font-normal">As a highly motivated UX Designer based 
