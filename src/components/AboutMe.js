@@ -36,7 +36,7 @@ return (
                 style={{
                     color: "#ffa500",
                 }}/>
-                <h1 className="text-white text-center text-[15px] lg:text-2xl font-normal lg:font-semibold w-20 lg:w-40 mt-8">10+ Projects Conpleted</h1>
+                <h1 className="text-white text-center text-[15px] lg:text-2xl font-normal lg:font-semibold w-20 lg:w-40 mt-8">10+ Projects Completed</h1>
             </div>
             <div className="flex flex-col items-center">
                 <AiOutlineBulb 
