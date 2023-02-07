@@ -1,6 +1,6 @@
 function MenuBar() {
   return (
-    <div className="px-2 lg:px-32 justify-between items-center flex flex-row bg-black lg:pt-2 pt-4 fixed top-0 w-[100vw]">
+    <div className="px-2 lg:px-32 justify-between items-center flex flex-row bg-black lg:pt-2 pt-4 fixed top-0 w-[100vw] z-20">
         <div className="flex flex-row ml-4 lg:ml-0">
             <h1 className="text-4xl text-white font-bold">J</h1>
             <h1 className="text-2xl text-white font-semibold">unior</h1>
