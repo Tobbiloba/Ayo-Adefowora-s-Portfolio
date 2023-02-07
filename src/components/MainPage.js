@@ -3,7 +3,7 @@ function Mainpage() {
 
     return (
         <div className="bg-black flex flex-col h-[87.5vh] lg:h-[95vh] items-center lg:mb-0 mt-28 lg:mt-12">
-            <div className=" flex flex-row mr-40 lg:mr-20">
+            <div className=" flex flex-row mr-40 lg:mr-80">
                 <div className="flex flex-col mt-3 lg:mt-72 w-[45vw]">
                     <div className="">
                      <h1 className="lg:text-7xl text-4xl text-white font-semibold">CREATING <span className="text-orange-400">SORCERY</span> WITH FRAMES</h1>
